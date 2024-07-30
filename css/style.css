@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: orange;
+}
+.home{
+    margin-left: 10px;
+}
+.about{
+    margin-left: 10px;
+}
+.contact{
+    margin-left: 10px;
+}
+.home :hover{
+    background-color: teal;
+    color: orange;
+
+}
+
+
+
